@@ -1,7 +1,6 @@
 ﻿using System;
 
-namespace Question4
-{
+
     internal class Program
     {
         static void Main(string[] args)
@@ -52,4 +51,3 @@ namespace Question4
             }
         }
     }
-}

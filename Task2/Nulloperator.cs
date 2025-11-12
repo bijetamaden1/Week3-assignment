@@ -4,9 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Task6
-{
-    internal class NullOperations
+
+    internal class Nulloperator
     {
         public void PerformNullChecks()
         {
@@ -28,4 +27,3 @@ namespace Task6
             Console.WriteLine("Updated username: " + userName);
         }
     }
-}

@@ -1,7 +1,6 @@
 ﻿using System;
 
-namespace Question6
-{
+
 
     class Program
     {
@@ -53,4 +52,3 @@ namespace Question6
         }
     }
 
-}
